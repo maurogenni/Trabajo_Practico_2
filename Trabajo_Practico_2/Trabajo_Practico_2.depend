@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474676144 source:c:\users\metro\desktop\trabajo_practico_2\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1474672809 c:\users\metro\desktop\trabajo_practico_2\lib.h
+
+1474672809 source:c:\users\metro\desktop\trabajo_practico_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
